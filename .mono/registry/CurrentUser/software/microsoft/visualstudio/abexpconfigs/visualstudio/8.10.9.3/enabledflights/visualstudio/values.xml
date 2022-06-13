@@ -1,0 +1,20 @@
+<values>
+<value name="LongerAnimation"
+type="string">true</value>
+<value name="vs-welcome"
+type="string">true</value>
+<value name="vsformacaa"
+type="string">true</value>
+<value name="WAMBasicEnabled"
+type="string">true</value>
+<value name="VSIC_SuggestionHintsInsertions_TopLeft"
+type="string">false</value>
+<value name="linkscarouseltfl"
+type="string">false</value>
+<value name="azure_links_tf"
+type="string">true</value>
+<value name="codenavtf"
+type="string">false</value>
+<value name="Roslyn.ToggleBlockComment.NoUsed"
+type="string">true</value>
+</values>

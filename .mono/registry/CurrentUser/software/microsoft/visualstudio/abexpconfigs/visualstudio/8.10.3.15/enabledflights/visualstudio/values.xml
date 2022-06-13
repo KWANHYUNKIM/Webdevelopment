@@ -1,0 +1,8 @@
+<values>
+<value name="codenavtf"
+type="string">false</value>
+<value name="vsformacaa"
+type="string">true</value>
+<value name="Roslyn.ToggleBlockComment.NoUsed"
+type="string">true</value>
+</values>
